@@ -1,4 +1,4 @@
-data <- read.csv('/Users/youssefelyaakoubi/Documents/COURS/MASTER_APE_SE/M2/indices_prix.csv')
+data <- read.csv('indices_prix.csv')
 View(data)
 
 library(dplyr)
