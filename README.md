@@ -57,3 +57,6 @@ This study highlights the significant impact that city center real estate prices
 3. Moec, G., et al. (2004). Y at-il un risque de bulle immobilière en France? Bulletin de la Banque de France, (129), 45-58.
 4. Osland, L. (2010). An application of spatial econometrics in relation to hedonic house price modeling. Journal of Real Estate Research, 32(3), 289-320.
 
+## License
+This project is licensed under the MIT License.
+
